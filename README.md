@@ -1,5 +1,5 @@
 # HRNet_cpp
-HRNet的C++实现，编译器的VS2019，具体可以看博客[HRNet C++版本](https://jiahui.blog.csdn.net/article/details/116138711)
+HRNet的C++实现，编译器是VS2019，具体可以看博客[HRNet C++版本](https://jiahui.blog.csdn.net/article/details/116138711)
 
 关于环境的配置可以自行百度。主要是opencv的cuda版和onnx推理库的配置。该项目是Release x64版本
 
